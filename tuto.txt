@@ -2,167 +2,166 @@ Player move #1
 
 	Step #1
 	
-		Welcome to the tutorial for Hegemony, Lead your class to Victory!
+		Welcome to the tutorial for Hegemony: Lead your class to Victory!
 
-		The nation is in disarray. The economy is failing and political tensions are rising. The [red]working class[/red] faces a dismantled welfare system, the [blue]capitalists[/blue] are losing their profits, the middle class is gradually fading, and the state is sinking into a deep deficit. In these troubling times, the only person who can provide guidance is... *you*!
+		The nation is in disarray. The economy is failing and political tensions are rising. The [red]*working class*[/red] faces a dismantled welfare system, the [blue]*capitalists*[/blue] are losing their profits, the middle class is gradually fading, and the state is sinking into a deep deficit. In these troubling times, the only person who can provide guidance is... *you*!
 
-		Hegemony is an asymetrical gameplay board game for 2 to 4 players and games that takes between 2 to 3 hours on BGA.
+		Hegemony is an asymmetrical board game for 2 to 4 players, with games that take between 2 and 3 hours on BGA.
 
 	Step #2
 	
 		In Hegemony, you will play The [red]*Working Class (WC)*[/red], *The Middle Class (MC)*, [blue]*The Capitalist Class (CC)*[/blue] or you will play *the State*.
 
-		Each player having a different sets of abilities, each player having their own agenda to fight for.
+		Each player has a different set of abilities and their own agenda to fight for.
 
-		In this tutorial, we will play a two players game, as the [red]Working Class[/red] and we will fight some [blue]Capitalists[/blue]!
+		In this tutorial, we will play a two-player game as the [red]Working Class[/red], and we will fight some [blue]Capitalists[/blue]!
 		
 	Step #3
 	
-		*The Middle Class* appears on 3 and 4 players games.
-		*The State* is being controlled only on 4 players games, but is always present in all games.
+		*The Middle Class* appears in 3- and 4-player games.
+		*The State* is being controlled only in 4-player games, but is always present in all games.
 
-		But before going on details about the classes, let's explain how the game is being played overall.
+		But before going into specifics about the classes, let's explain how the game is played overall.
 		
 	Step #4
 	
-		Hegemony is played on 5 *Rounds*.
+		Hegemony is played in 5 *Rounds*.
 
-		Each round is divided on multiple *Phases*:
+		Each round is divided in multiple *Phases*:
 		- The Preparation phase 
 		- The Action phase
 		- The Production phase
-		- The Election phase
+		- The Elections phase
 		- The Scoring phase 
 		
 	Step #5
 	
-		In *Preparation phase* we will draw cards, move the Round indicator, and do everything a class and the state must do when the Round change.
-
-		This phase is replaced by the Game Setup for Round 1.
+		In the *Preparation phase* we draw cards, move the Round marker, and do everything a Class and the State must do at the beginning of each Round (except for the 1st Round which is replaced by Game Setup).
 		
 	Step #6
 	
 		In the *Action phase* is where most of the fun lies.
 
-		We will play cards to interact with the board and the players.
+		We will play cards to interact with the board and other players.
 
-		At the start of this phase everybody have 7 cards.
+		At the start of this phase, all players have 7 cards.
 		
 	Step #7
 	
-		Each player will play a *turn* one after the other, always starting with the [red]Working Class[/red], then the Middle Class, then the [blue]Capitalist Class[/blue], then the State.
+		Players take *turns* in order, starting with the [red]Working Class[/red], followed by the Middle Class, the [blue]Capitalist Class[/blue], and then the State.
 		
 	Step #8
 	
-		During its turn, a player must play a card either for its effect or to do a base action.
+		During its turn, a player must play a card either for its effect or to perform a *Basic Action*.
 
-		A player can also do one 'free action' that they can activate before or after the 'card action'.
+		A player can also take one *Free Action* that they can perform before or after the *Card Action*.
 
-		Once everybody did their turn, we start again, and again, and again, and again, and *[red]STOP![/red]*
+		Once all players have finished their turn, we start again, and again, and again, and again, and *[red]STOP![/red]*
 
-		We only play *5 turns out of the 7* cards. The remaining two cards are kept for next round.
+		*We only play 5 turns out of the 7 cards*. The two remaining cards are kept for next round.
 		
 	Step #9
 	
-		Since each player have their own abilities, they also have their own pack of cards.
+		[DELETED]
 		
 	Step #10
 	
-		Next is the *Production Phase* : Workers work in their workplace, in exchange for money, and this produces goods and services for the workplace owner.
+		Next is the *Production Phase*: Workers work at their workplaces, in exchange for money, and this produces goods and services for the workplace owner.
 
-		Then the population wants to eat, and the state wants to exto-- I mean, share their burden with us with some taxes.
+		Then the Population needs to be fed, and the State needs to exto-- I mean, collect taxes to avoid bankruptcy.
 		
 	Step #11
 	
-		Like the Preparation and the Scoring Phase, mostly everything is handled by BGA but a few choices can be asked. 
+		Like with the Preparation and Scoring phases, almost everything is handled by BGA but players may have choices to make.
 
-		(For example: the population wants to eat, but to who shall you buy your food?)
+		(For example: if the Population needs more food than you currently have, whom shall you buy it from?)
 		
 	Step #12
 	
-		After the production comes the time for elections !
-		It's the *Election Phase*.
+		After the production comes the time for elections!
+		It's the *Elections Phase*.
 
-		Each contested law will get an election, in order from the fiscal policy to the immigration.
+		For each policy that has a proposed bill, an election is carried out in order, starting with the fiscal policy to the immigration policy.
 
-		..but we will see how the elections work later.
-		There will be cubes. lots of them.
+		..but we will see how elections work later.
+		There will be cubes. Lots of them.
 		
 	Step #13
 	
-		After this will come a nice little phase where nothing bad happen: the *Scoring Phase*.
+		The Round concludes with a nice little phase where nothing bad happens: the *Scoring Phase*.
 
-		This is the moment some players will earn some points between rounds.
+		During this phase, each player earns points according to their board state.
 
-		In the Round 5, we will also add the end of game points and the game will be over, a class will rise to victory, may it be yours.
+		At the end of Round 5, we will also add the end of game points and the game will be over, a class will rise to victory... May it be yours.
 		
 	Step #14
 	
-		But as I said - We are playing the [red]*Working class*[/red] and we are here to fight some [blue]*Capitalists*[/blue]
+		But as I said - we are playing the [red]*Working class*[/red] and we are here to fight some [blue]*Capitalists*[/blue].
 		
 	Step #15
 	
-		The [red]*Working Class*[/red] is the class of the common people, the ones that work hard for everyone, only for a couple of Varden bucks. This is unacceptable.
+		The [red]*Working Class*[/red] is the class of the common people, the ones that work hard for everyone else, only for a couple of Vardis bucks. This is unacceptable.
 
-		All we want is access to [red]Health[/red], Education and.. perhaps, maybe some [blue]Luxury items[/blue].
+		All we want is access to [red]Healthcare[/red], Education and.. perhaps some [blue]Luxury items[/blue].
 
-		Using them will increase our prosperity, which will give us *Victory points (VP)*.
+		Using any of them increases our Prosperity, which in turn gives us *Victory points (VP)*.
 		
 	Step #16
 	
-		But those are not (always) free, so we will need money : the *Vardens*..
+		But those are not (always) free, so we need money: the *Vardis*..
 		
 	Step #17
 	
-		And to gain money we will need *Workers* to earn their *salaries* in the public sector where the state provide their services...
+		..so we need *Workers* to earn their *Wages* either in the Public Sector, where the State provides its services..
 
 	Step #18
 	
-		...or in the private sector, where lies the infamous [blue]*Capitalist Class*[/blue] companies.
+		..or in the Private Sector, where the infamous [blue]*Capitalist Class*[/blue] Companies lie.
 
-		(On 3 and 4 players games the *Middle Class* will also have some small companies.)
+		(In 3- and 4-player games, the Private Sector includes the *Middle Class* Companies as well.)
 		
 	Step #19
 	
-		A company can either be *operational* (with workers assigned to every spot) or *inactive* (without any worker at all).
+		A Company can either be *operational* (with Workers assigned to every slot) or *non-operational* (without any Workers at all).
 
-		Only the *operational* companies are producing their goods or services and are paying salaries during the production phases.
+		Only the *operational* Companies are producing their goods or services and are paying Wages during the Production phases.
 
-		And as you can see for the Regional TV Station, some workers need to be specialized.
+		And as you can see for the Regional TV Station, some Workers need to be specialized.
 
-		..so let's try specializing an inactive worker!
+		..so let's try specializing an Unemployed Worker!
+
 		
 	Step #20
 	
-		[green]Let's play *Unemployment Benefits* for its effect.[/green]
+		[green]Let's play the *Unemployment Benefits* card for its effect.[/green]
 
-		(Do not select "Base Action")
+		(Do not select "Basic Action")
 		
 Player move #2
 
 	Step #21
 	
-		This card allow us to gain 5 Vardis per inactive workers, that we can see here. (a grand total of 10 Vardis, yeepee!).
+		This card allows us to gain 5 Vardis per unemployed Worker, that we can see here. (For a grand total of 10 Vardis, yippee!)
 
-		Then it allows us to buy goods and services from the state, which was exactly what we needed.
+		Then it allows us to buy goods and services from the State, which was exactly what we needed.
 
-		So, let's now buy some Education services, [green]let's click on the orange student hat icon[/green]
+		So, let's now buy some Education services, [green]let's click on the orange student hat icon[/green].
 		
 Player move #3
 
 	Step #22
 	
-		When buying, we can only buy one type of good or service, but we can buy them from different sources if we want to.
+		When buying, we can only buy one type of Goods or Services, but we can buy them from 2 different sources if we want to.
 
-		We can see *the State* have 5 education on the "Public services" panel, and *[blue]the Capitalists[/blue]* have 2 in their warehouses (in the player planels).
+		We can see *the State* has 5 Education on the *Public services* panel, and *[blue]the Capitalists[/blue]* have 2 in their warehouses (in the player panels).
 
-		[red]But the card only let us buy from the State, so let's choose State.[/red]
+		[red]But the card only lets us buy from the State, so let's choose State.[/red]
 
 		[green]Click on *State*, then choose *3 Education for 30 Vardis*.[/green]
 
-		[blue][tip] Notice that you can NOT have more than 3, even though the state have 5 Education and you have enough to buy up to 4.
+		[blue][tip] Notice that you CANNOT buy more than 3, even though the State has 5 Education and you have enough Vardis to buy up to 4.
 
-		This is because the amount of good and service you can buy can NOT exceed your Population [/blue]
+		This is because you CANNOT buy more units of a Good or Service than your current Population.[/blue]
 		
 Player move #4
 
@@ -250,7 +249,7 @@ Player move #17
 		
 	Step #32
 	
-		Commitment happen when workers start working in a company or when they are given a bonus: a cheap free action the Capitalists can take (they give their workers 5 Vardens).
+		Commitment happen when workers start working in a company or when they are given a bonus: a cheap free action the Capitalists can take (they give their workers 5 Vardis).
 
 		Some cards also commit employees too.
 
@@ -274,7 +273,7 @@ Player move #20
 		
 	Step #34
 	
-		With only 10 Vardens, it would be good to buy some [red]Health[/red] for the very expansive price of.. nothing.
+		With only 10 Vardis, it would be good to buy some [red]Health[/red] for the very expansive price of.. nothing.
 
 		Too bad *the law* says otherwise..  ..so let's change it!
 
@@ -335,9 +334,9 @@ Player move #22
 
 		- [red]*Socialism* (A)[/red]: they cost nothing to the buyer, but we add 2 times the welfare tax multiplier to the tax multiplier
 
-		- *Balanced* (B): they cost 5 Vardens, and we add the welfare tax multiplier to the tax multiplier
+		- *Balanced* (B): they cost 5 Vardis, and we add the welfare tax multiplier to the tax multiplier
 
-		- [blue]*Neo-liberalism* (C)[/blue]: they cost 10 Vardens, and tax multiplier is unaffected.
+		- [blue]*Neo-liberalism* (C)[/blue]: they cost 10 Vardis, and tax multiplier is unaffected.
 
 		When those change, The [blue]*Capitalist*[/blue] and *Middle* classes can change the prices of their Goods and Services.
 
@@ -495,7 +494,7 @@ Player move #37
 
 	Step #59
 	
-		[green]Let's select *the State*, then choose *3 Health for 15* Vardens[/green].
+		[green]Let's select *the State*, then choose *3 Health for 15* Vardis[/green].
 		
 Player move #38
 
@@ -624,7 +623,7 @@ Player move #80
 	
 		First thing in the Production phase : the Production of companies in exchange for the salaries.
 
-		Here, the State give 20 Vardens to the Working class at the Hospitals, which will then produce 4 health in the State.
+		Here, the State give 20 Vardis to the Working class at the Hospitals, which will then produce 4 health in the State.
 
 		Each company is treated the same way. Salaries are forced payments. If a company owner can not pay them, they get take a loan.
 
@@ -644,7 +643,7 @@ Player move #80
 
 		But.. I'd rather not pay [blue]capitalists[/blue]. We *fight* them, after all!
 
-		[green]Pick *Foreign market*, then *4 Food for 40* Vardens[/green]
+		[green]Pick *Foreign market*, then *4 Food for 40* Vardis[/green]
 		
 Player move #82
 
@@ -654,7 +653,7 @@ Player move #82
 
 		Taxes depends on the class, you can see the Taxation on the little book button near your class board.
 
-		For [red]Working class[/red], it depends on the Taxation policy (3) and the Labor Market policy (2).. so it should be 4 Varden per population, so 16 in total. 
+		For [red]Working class[/red], it depends on the Taxation policy (3) and the Labor Market policy (2).. so it should be 4 Vardis per population, so 16 in total. 
 
 		[img]https://snipboard.io/JFx28a.jpg[/img]
 		
