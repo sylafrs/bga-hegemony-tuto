@@ -1,0 +1,994 @@
+Player move #1
+
+	Step #1
+	
+		Welcome to the tutorial for Hegemony, Lead your class to Victory!
+
+		The nation is in disarray. The economy is failing and political tensions are rising. The [red]working class[/red] faces a dismantled welfare system, the [blue]capitalists[/blue] are losing their profits, the middle class is gradually fading, and the state is sinking into a deep deficit. In these troubling times, the only person who can provide guidance is... *you*!
+
+		Hegemony is an asymetrical gameplay board game for 2 to 4 players and games that takes between 2 to 3 hours on BGA.
+
+	Step #2
+	
+		In Hegemony, you will play The [red]*Working Class (WC)*[/red], *The Middle Class (MC)*, [blue]*The Capitalist Class (CC)*[/blue] or you will play *the State*.
+
+		Each player having a different sets of abilities, each player having their own agenda to fight for.
+
+		In this tutorial, we will play a two players game, as the [red]Working Class[/red] and we will fight some [blue]Capitalists[/blue]!
+		
+	Step #3
+	
+		*The Middle Class* appears on 3 and 4 players games.
+		*The State* is being controlled only on 4 players games, but is always present in all games.
+
+		But before going on details about the classes, let's explain how the game is being played overall.
+		
+	Step #4
+	
+		Hegemony is played on 5 *Rounds*.
+
+		Each round is divided on multiple *Phases*:
+		- The Preparation phase 
+		- The Action phase
+		- The Production phase
+		- The Election phase
+		- The Scoring phase 
+		
+	Step #5
+	
+		In *Preparation phase* we will draw cards, move the Round indicator, and do everything a class and the state must do when the Round change.
+
+		This phase is replaced by the Game Setup for Round 1.
+		
+	Step #6
+	
+		In the *Action phase* is where most of the fun lies.
+
+		We will play cards to interact with the board and the players.
+
+		At the start of this phase everybody have 7 cards.
+		
+	Step #7
+	
+		Each player will play a *turn* one after the other, always starting with the [red]Working Class[/red], then the Middle Class, then the [blue]Capitalist Class[/blue], then the State.
+		
+	Step #8
+	
+		During its turn, a player must play a card either for its effect or to do a base action.
+
+		A player can also do one 'free action' that they can activate before or after the 'card action'.
+
+		Once everybody did their turn, we start again, and again, and again, and again, and *[red]STOP![/red]*
+
+		We only play *5 turns out of the 7* cards. The remaining two cards are kept for next round.
+		
+	Step #9
+	
+		Since each player have their own abilities, they also have their own pack of cards.
+		
+	Step #10
+	
+		Next is the *Production Phase* : Workers work in their workplace, in exchange for money, and this produces goods and services for the workplace owner.
+
+		Then the population wants to eat, and the state wants to exto-- I mean, share their burden with us with some taxes.
+		
+	Step #11
+	
+		Like the Preparation and the Scoring Phase, mostly everything is handled by BGA but a few choices can be asked. 
+
+		(For example: the population wants to eat, but to who shall you buy your food?)
+		
+	Step #12
+	
+		After the production comes the time for elections !
+		It's the *Election Phase*.
+
+		Each contested law will get an election, in order from the fiscal policy to the immigration.
+
+		..but we will see how the elections work later.
+		There will be cubes. lots of them.
+		
+	Step #13
+	
+		After this will come a nice little phase where nothing bad happen: the *Scoring Phase*.
+
+		This is the moment some players will earn some points between rounds.
+
+		In the Round 5, we will also add the end of game points and the game will be over, a class will rise to victory, may it be yours.
+		
+	Step #14
+	
+		But as I said - We are playing the [red]*Working class*[/red] and we are here to fight some [blue]*Capitalists*[/blue]
+		
+	Step #15
+	
+		The [red]*Working Class*[/red] is the class of the common people, the ones that work hard for everyone, only for a couple of Varden bucks. This is unacceptable.
+
+		All we want is access to [red]Health[/red], Education and.. perhaps, maybe some [blue]Luxury items[/blue].
+
+		Using them will increase our prosperity, which will give us *Victory points (VP)*.
+		
+	Step #16
+	
+		But those are not (always) free, so we will need money : the *Vardens*..
+		
+	Step #17
+	
+		And to gain money we will need *Workers* to earn their *salaries* in the public sector where the state provide their services...
+
+	Step #18
+	
+		...or in the private sector, where lies the infamous [blue]*Capitalist Class*[/blue] companies.
+
+		(On 3 and 4 players games the *Middle Class* will also have some small companies.)
+		
+	Step #19
+	
+		A company can either be *operational* (with workers assigned to every spot) or *inactive* (without any worker at all).
+
+		Only the *operational* companies are producing their goods or services and are paying salaries during the production phases.
+
+		And as you can see for the Regional TV Station, some workers need to be specialized.
+
+		..so let's try specializing an inactive worker!
+		
+	Step #20
+	
+		[green]Let's play *Unemployment Benefits* for its effect.[/green]
+
+		(Do not select "Base Action")
+		
+Player move #2
+
+	Step #21
+	
+		This card allow us to gain 5 Vardis per inactive workers, that we can see here. (a grand total of 10 Vardis, yeepee!).
+
+		Then it allows us to buy goods and services from the state, which was exactly what we needed.
+
+		So, let's now buy some Education services, [green]let's click on the orange student hat icon[/green]
+		
+Player move #3
+
+	Step #22
+	
+		When buying, we can only buy one type of good or service, but we can buy them from different sources if we want to.
+
+		We can see *the State* have 5 education on the "Public services" panel, and *[blue]the Capitalists[/blue]* have 2 in their warehouses (in the player planels).
+
+		[red]But the card only let us buy from the State, so let's choose State.[/red]
+
+		[green]Click on *State*, then choose *3 Education for 30 Vardis*.[/green]
+
+		[blue][tip] Notice that you can NOT have more than 3, even though the state have 5 Education and you have enough to buy up to 4.
+
+		This is because the amount of good and service you can buy can NOT exceed your Population [/blue]
+		
+Player move #4
+
+	Step #23
+	
+		Since we have NOT played a *free action* before the *card action*, BGA is now asking which "free action" we would like to play.
+
+		[green]Since we bought Education up to our Population, let's use it ![/green]
+
+		[blue][tip] Remember that the *free action* can be played before the *card action*[/blue] 
+		
+Player move #5
+
+	Step #24
+	
+		When we use Education, [red]Health[/red] or [blue]Luxury Items[/blue], we gain 1 *Prosperity*.
+
+		Each time we increase Prosperity, we gain as much victory points (VP).
+
+		So since we now have 1 Prosperity, we gained 1 VP.
+
+		[blue][tip] Next time we gain 1 Prosperity in this round, we will have 2 Prosperity so we will gain 2 VP![/blue]
+		
+	Step #25
+	
+		If we want to assign workers to that regional tv station, then we need a *Media* specialized worker. 
+
+		So let's make one: [green]Select the left worker on the inactive workers box, then choose the *purple "Media"* specialization[/green].
+		
+Player move #6
+
+	Step #26
+	
+		We can only make *one free action*, no more.
+		So with our card action and our free action, our turn is now over.
+
+		Now it's time for the [blue]*Capitalists*[/blue] to play !
+		
+Player move #7
+
+	Step #27
+	
+		If we want to know what the [blue]*Capitalists*[/blue] are doing, we need to click on the *View Player Boards* button here.
+
+		[blue]Unfortunately, the tutorial system interacts badly with this panel, so I'll pause from time to time, but you will have to open the panel to actually see.[/blue]
+		
+	Step #28
+		
+		The [blue]*Capitalist Class*[/blue] is the class that wants Capital. Capital is what remains of their revenue at the end of the round. The revenue is the difference between what they gained and what they owed during a Round.
+
+		To gain Revenue, they have Goods and Services they can buy or produce, then store and sell : [green]Food[/green], [blue]Luxury Items[/blue], [red]Health[/red] and Education.
+		
+	Step #29
+	
+		They can also buy and sell companies from their market, for the price written on the top-right part of the card.
+
+		And- [red]Oh no ! We might have made a mistake ![/red]
+		
+Player move #14
+
+	Step #30
+
+		[red]As I feared![/red]
+		They discarded a card to make one of their base action: *Buying a Company*.
+
+		And they chose the Fashion Company, which requires two unskilled workers!
+
+		When a company is created its owner can then assign inactive workers to it.
+
+		[red]We should have used the Education at the next turn, before the Card Action![/red]
+		
+Player move #17
+
+	Step #31
+	
+		There are two things to notice:
+
+		- *First*: a specialized worker can be placed on an unskilled worker spot.
+
+		- *Second*: a little icon has been placed on the workers
+
+		The icon means that those workers are *committed* - they can not be moved from the company for the remaining of the round!
+
+		The counterpart is that their job are secured: the company cannot be sold, their salary can not be decreased.
+		
+	Step #32
+	
+		Commitment happen when workers start working in a company or when they are given a bonus: a cheap free action the Capitalists can take (they give their workers 5 Vardens).
+
+		Some cards also commit employees too.
+
+		Commited workers can still be *Swapped* with other workers, during a free action.
+		
+Player move #20
+
+	Step #33
+	
+		*At last!* Our turn again, we have 6 cards, so 4 remaining turns before this Action Phase is over.
+
+		Remember: 
+		- A Game is 5 Rounds
+		- A Round is 5 Phases
+		- An Action Phase is 5 Turns
+		- A Turn is a Card action and a Free action.
+
+		And once again:
+		- A Card Action is either playing a card for its effect or for a Base Action
+		- The Free Action is either skipped, played before or played after the Card Action
+		
+	Step #34
+	
+		With only 10 Vardens, it would be good to buy some [red]Health[/red] for the very expansive price of.. nothing.
+
+		Too bad *the law* says otherwise..  ..so let's change it!
+
+		[green]Let us discard *Affordable Housing* to make a *Base action*[/green]
+		
+Player move #21
+
+	Step #35
+	
+		[green]And now, click *Propose Bill*.[/green]
+		
+Player move #22
+		
+	Step #36
+	
+		Now might be a good moment to talk about the *Policies*.
+
+		Those are game changing rules - litteraly.
+
+		There are 7 of them, with 5 "main" policies that goes from [red]socialism (left, "A")[/red] to [blue]neo-liberalism (right, "C")[/blue], the middle column "B" being a compromise between the two.
+
+		[red]*The Working Class* tends to like Socialist laws.[/red]
+		*The Middle Class* loves compromises.
+		[blue]*The Capitalist Class* wants neo-liberalist laws.[/blue]
+		*The State*.. has its agenda...
+		
+	Step #37
+	
+		*1- The fiscal policy*
+		It tells how many companies the state owns. 
+		It also tells how much loans can take the state before the IMF declares the state bankrupt. (which capitalists love doing).
+
+		When this law changes, the state has to buy or sell   companies using the state funds.
+		
+	Step #38
+	
+		*2- Labor Market*
+		That the minimal salary level the companies must give.
+
+		When the minimal salary level is decreased, the companies can change their salary levels (if they do not have commited workers)
+		
+	Step #39
+
+		*3- Taxation*
+		How much shall we make the classes pay?
+
+		[blue]The Tax Multiplier[/blue] that we can see on the top of the board shows the taxes *operational companies* must pay to the state.
+
+		This policy also affect the basic taxes all classes takes. (a tax table per class is being used for it).
+
+		And finally it multiplies the tax multipliers increments from policies 4 and 5 below.
+
+	Step #40
+	
+		Then come *4 and 5: The Welfare State policies.*
+
+		It declares how much the services the state offers actually cost.
+
+		- [red]*Socialism* (A)[/red]: they cost nothing to the buyer, but we add 2 times the welfare tax multiplier to the tax multiplier
+
+		- *Balanced* (B): they cost 5 Vardens, and we add the welfare tax multiplier to the tax multiplier
+
+		- [blue]*Neo-liberalism* (C)[/blue]: they cost 10 Vardens, and tax multiplier is unaffected.
+
+		When those change, The [blue]*Capitalist*[/blue] and *Middle* classes can change the prices of their Goods and Services.
+
+		[blue][tip] For example, if 3A, 4A and 5A are applied, then the tax multiplier would be : 3 + 2x2 + 2x2 = 11 : the maximum value.
+
+		[tip] But if we have 3C, 4A and 5A : then tax modifier would be only 1 + 2x0 + 2x0 = 1 : the minimum value. (those policies will likely end up in a State bankrupcy)[/blue]
+		
+	Step #41
+	
+		6 and 5 are double edged laws for everyone.
+		
+	Step #42
+	
+		*6 - Foreign trade:*
+
+		Fixes the taxes from buying and selling from the foreign market.
+
+		- *High tariffs* (A): Getting things from outside becomes expansive so it encourage the [red]Working class[/red] to buy things from the State or the [blue]Capitalist class[/blue]. It also give the State some funds.
+
+		- *No tariffs* (C): Getting things from outside becomes cheap so [blue]Capitalist class[/blue] and [red]Working class[/red] can buy what they need from there, the problem is there will be less money for the State.
+
+		When this policy changes, the [blue]Capitalist[/blue] and Middle classes can change their Good and Services prices.
+		
+	Step #43
+	
+		*7 - Immigration*
+
+		Usually the *Middle class* and the [red]*Working class*[/red] get two workers during Preparation Phase.
+
+		This policy adds more workers to this.
+
+		[blue][tip] For example, if 7C is in effect, the Working class gains 4 workers at the start of the next Round![/blue]
+			
+	Step #44	
+		
+		And those are all the policies !
+
+		Keep in mind that some cards can only be played when some policies are in effect, like *Unemployment Benefits* from the first turn (you can see it on the historic)
+
+		[img]https://snipboard.io/wUQMcE.jpg[/img]
+		
+	Step #45
+	
+		So.. back to business: we wanted free [red]health[/red] for the people!
+
+		When proposing a Bill, you can not propose a Bill on a policy where a Bill is already proposed. ([blue][tip] It can prevent an  opponent from proposing a Bill to the opposite side[/blue])
+
+		And, unless a card explicitly tells you so, you may only change a policy to one degree. [blue](A -> C would require a special card like *Radical Reforms*)[/blue]
+
+		Anyways, that's not our case, so [green]let's click on the *4A* law.[/green]
+		
+Player move #23
+
+	Step #46
+	
+		When proposing a bill, if we have *influence*, we can pressure the government to do the election immediately.
+
+		After an election is finished, the proposed bill is discarded and another bill can then be proposed afterwards.
+
+		But if the bill is accepted, the policy changes are immediate.
+
+		[blue][tip] You must also remember that the *Production Phase* (salary, taxes, buying food) happens before the *Election Phase*.[/blue]
+
+		We wanted free [red]health[/red] for people, and we want it right now, so [green]let's use our influence and click on *Call for immediate vote*[/green].
+		
+Player move #25	
+	
+	Step #47
+	
+		It's *ELECTION TIME*!!
+
+		Each player must choose whether they are *in favor* or *against* the change.
+
+		[green]!!! For the next tutorial step, please scroll down to the policies square[/green]
+		
+	Step #48
+	
+		During the whole game, a voting bag representing the favor of the people for the classes actions is represented here.
+
+		When a vote starts, 5 cubes are randomly picked from the bag.
+
+		[blue]We can decide to hide the bag contents on the game options before it starts[/blue]
+		
+	Step #49
+	
+		On a 2 players game, the Middle class cubes are considered neutral and do not count.
+		
+	Step #50
+	
+		If there are more cubes *Against* than there are *In Favor*, then the law doesn't change and nothing special happens.
+
+		But in the contrary (even in the case of an egality):
+		- the law is changed
+		- the effects are processed [blue](the state buying companies, for example)[/blue]
+		- the player that proposed the bill gains 3 VP
+		- all the other classes that were *In Favor* gain 1 VP.
+
+		The cubes of the side that loses the election go back into the bag.
+		
+Player move #26
+
+	Step #51
+	
+		Of course [blue]*Capitalists*[/blue] are against this motion..
+		
+	Step #52
+	
+		Egality! The law should change.. unless..
+		
+Player move #27
+
+	Step #53
+	
+		Yeah.. *Influence* can also change the results of a vote.
+
+		Once the first result is made public, every player will have a chance to add as much influence they want (and have in stock) to add more cubes to their side.
+		 
+		All Influence cubes used this way are revealed simultaneously.
+
+		[blue]Capitalists[/blue] had their first influence from the Game Setup, and used it here, the law won't change.
+		
+	Step #54
+	
+		No free action possible, [green]let's *pass*[/green].
+		
+Player move #34
+
+	Step #55
+	
+		The [blue]*Capitalist Class*[/blue] played "Extra Shift": they want goods to sell to the foreign market, and are afraid we may move from their companies.
+
+		Good for us : we needed the money!
+
+		They also gave the supermarket workers a bonus, so they are now commited. I guess they were afraid we swapped the violet and the unskilled worker from it to affect them on the TV station!
+		
+	Step #56
+	
+		We can now buy health, so let's do it!
+
+		[green]Let's discard *Student Movement*[/green].. we should have used that card beforehand.. but, oh well!
+		
+Player move #35
+
+	Step #57
+
+		[green]*Buy Goods and services*[/green]
+		
+Player move #36
+
+	Step #58
+	
+		[green]Select *Health*, with the red heart icon[/green]
+		
+Player move #37
+
+	Step #59
+	
+		[green]Let's select *the State*, then choose *3 Health for 15* Vardens[/green].
+		
+Player move #38
+
+	Step #60
+	
+		[green]Now, let's *use* them[/green]
+		
+Player move #39
+
+	Step #61
+	
+		So, several things happened.
+
+		We gained 1 *Prosperity*, so we now have 2.
+		So we gained 2 Victory Points (VP).
+
+		But then we gained the other effects of using [red]health[/red]: +2 VP and a new unskilled worker.
+
+		Let us see what all the *Goods and Services* do, and where we can buy them from.
+		
+	Step #62
+	
+		*[red]Health[/red]* : +1 Prosperity, +2 VP, +1 Worker
+
+		It can be bought from the State, the Middle and [blue]Capitalist[/blue] classes.
+		
+	Step #63
+	
+		*Education*: +1 Prosperity, specialises a worker
+
+		It can be bought, like [red]Health[/red], from the State, the Middle and [blue]Capitalist[/blue] classes.
+		
+	Step #64
+			
+		*[blue]Luxury item[/blue]*: +1 Prosperity
+
+		It can be bought from the Middle class, the [blue]Capitalist class[/blue] and from the foreign market (see import).
+		
+	Step #65
+	
+		[green]*Food*[/green]: [red]Working class[/red] and Middle class must feed their population during Production phase. That's mandatory.
+
+		It can be bought, like [blue]Luxury items[/blue], from the Middle class, the [blue]Capitalist class[/blue] and from the foreign market (see Import)
+		
+	Step #66
+	
+		*Influence*: can be used to start an instant vote and can be used to add cubes during a vote.
+
+		It can be bought from the State, but is generated by various effects.
+
+		Notably:
+		- [red]*Working class*[/red]: Produced by Trade Unions (mostly).
+		- [blue]*Capitalist class*[/blue]: Produced by Media Companies and Lobbying (a Base Action)
+		
+	Step #67
+	
+		Goods and Services must be used up to the population. (except for Influence)
+
+		We can see the table of population per workers by hovering the Population square.
+
+		[img]https://snipboard.io/rN5WD2.jpg[/img]
+
+		[blue][tip] (So for the Working Class, the Population equals the count of workers divided by 3, floored, to a maximum of 10... but yeah, the table.. it's great too)[/blue]
+		
+Player move #40
+
+	Step #68
+	
+		Anyways, it's the turn of the [blue]capitalists[/blue].
+		
+Player move #45
+
+	Step #69
+	
+		Let us speak of the foreign market.
+
+		*Imports* : When buying [green]food[/green] or [blue]luxury items[/blue], a player may chose the foreign market as the provider. Those price only change with the tariffs from Policy 6.
+
+		*Business deals* : Those are offers the [blue]Capitalist Class[/blue] can make to buy a large quantity of [blue]luxury items[/blue] or [green]food[/green] for less money than Imports. Tariffs from Policy 6 are still being used here. Those deals are randomly drawn during Preparation phase (and Game setup), so when the policy changes: only the tariffs are immediately affected.
+
+		*Free Trade Zone* : This is a special warehouse the Capitalist class possess to escape the tariffs.
+		The Goods and Services stored there can only be Exported. You can see this zone on the [blue]Capitalists[/blue] board
+
+	Step #70
+	
+		*Exports* : Those can be made by the Middle class, the [blue]Capitalist class[/blue] and the State.
+
+		Exporting is selling the Goods and Services we have stored in warehouses (or the Free Trade Zone) to the foreign market.
+
+		Each arrow is an available transaction. 
+		During a single Export action, we can do any transaction, but only once for each. 
+
+		[blue][tip] For example, we can NOT sell 4 food for 30 Vardis. But we could sell 8 food for 65 vardis then 3 education for 15 Vardis in the same Action.[/blue]
+
+		Those become available for any future Export action, even during the same Round.
+
+		Note that those Export prices change at the Preparation Phase of each Round (and at the Game Setup)
+		
+Player move #46
+
+	Step #71
+	
+		Here, the [blue]Capitalists[/blue] chose to make a business deal, gaining 8 [blue]luxury items[/blue], and they chose to store them in the Free Trade Zone.
+
+		The Free Trade Zone isn't shown on the Player Panels. (where we only see the Warehouses).
+		To see those Good and Services we have to see the [blue]Capitalist class[/blue] board.
+
+		Once a Business deal is concluded, it is discarded.
+		
+Player move #48
+
+	Step #72
+
+		Back to us.
+		Well.. let's now fast forward a little to the next phase..
+		
+Player move #80
+
+	Step #73
+	
+		*Production Phase !*
+
+		We can see the *[red]Working class[/red]* continued rushing for points with Health, and proposed a bill for Education from C to A (using Radical Reforms) while the *[blue]Capitalist Class[/blue]* were busy making money and buying companies.
+		
+	Step #74
+	
+		First thing in the Production phase : the Production of companies in exchange for the salaries.
+
+		Here, the State give 20 Vardens to the Working class at the Hospitals, which will then produce 4 health in the State.
+
+		Each company is treated the same way. Salaries are forced payments. If a company owner can not pay them, they get take a loan.
+
+		Let's fast forward this.
+		
+	Step #75
+	
+		Now is the delightful time when the [red]Working class[/red] is richer than the [blue]Capitalist class[/blue]..
+
+		..This won't last, since workers need to be fed.
+		
+	Step #76
+	
+		We can choose from which sources to buy our [green]food[/green]. 
+
+		[blue][tip] We could for example take 2 from the foreign market and 2 from the capitalists.[/blue]
+
+		But.. I'd rather not pay [blue]capitalists[/blue]. We *fight* them, after all!
+
+		[green]Pick *Foreign market*, then *4 Food for 40* Vardens[/green]
+		
+Player move #82
+
+	Step #77
+	
+		Now we pay *taxes*.
+
+		Taxes depends on the class, you can see the Taxation on the little book button near your class board.
+
+		For [red]Working class[/red], it depends on the Taxation policy (3) and the Labor Market policy (2).. so it should be 4 Varden per population, so 16 in total. 
+
+		[img]https://snipboard.io/JFx28a.jpg[/img]
+		
+	Step #78
+
+		And [blue]Capitalist class[/blue] have :
+
+		- the *Employment tax* (each operational companies pay the tax multiplier)
+
+		- the *Corporate tax* which taxes them depending on their Revenue (not the Capital) and the Taxation policy (3)
+
+		[img]https://snipboard.io/vbIwc3.jpg[/img]
+		
+	Step #79
+	
+		We are now entering the *Election phase*. 
+
+		This phase is *entirely* skipped when no bills are proposed.
+
+		When (and if) we start this phase, each player add cubes.
+
+		- The [red]Working Class[/red] adds cubes equal to half its Population (rounded up). 
+
+		- The [blue]Capitalist Class[/blue] adds cubes equal to half the number (rounded up) of its operational Companies.
+
+		On a two-player game, we also add 5 Middle Class cubes (which are neutral)
+		
+Player move #83
+
+	Step #80
+	
+		That was quite unlucky.
+		
+	Step #81
+	
+		*Scoring phase*: 
+
+		It also changes for each class, and is also described on the player aid panel we can open with the book button. 
+
+		- [red]Working class[/red] gains 2 victory points per Trade Unions. (we will quickly speak of them later)
+
+		- But that's the moment the [blue]Capitalists[/blue] shine.. ..when they have the Capital.. ..which is not really the case here, fortunately for us!
+
+	Step #82
+	
+		We now enter the preparation phase of the second Round, in which we draw cards, lose prosperity, change the companies in the market, the exports card and business deals are changed and so on..
+
+		The general help in the player aid panel details this.
+		
+Player move #84
+
+	Step #83
+	
+		Entering a new *Action Phase* : you know how it works.
+		The Game continues for a total of 5 Rounds.
+
+		Before finishing this tutorial, I feel the need to explain some special [red]Working class[/red] actions, and their Trade Unions.
+
+		I must also talk about the Machinery in the Companies.
+
+		And then I will quickly show the Middle Class and a Played State.
+		
+	Step #84
+	
+		Let's fast forward
+		
+Player move #107
+
+	Step #85
+	
+		Due to the actions of both the Working class that bought health and the Capitalist class that managed to find foreign people to work in their companies and sold an unused company, we are in a state where unemployment becomes a problem.
+
+		A lot of inactive workers are present (and need feeding) while there are not a lot of job openings..
+
+		What to do ?!
+		
+Player move #108
+
+	Step #86
+	
+		 [green]It's time to go on *Demonstrations* ![/green]
+		 
+Player move #109
+
+	Step #87
+	
+		Demonstrations are a very scary pressuring tool to force the other players to make some new job offers.
+
+		It can be done if you have more than 2+ the count of job offerings in your unemployed workers.
+
+		If they do not build companies to assign workers and break the initial condition in doing so, the demonstrations remains.
+
+		And if it remains during the Production Phase, they will LOSE victory points
+		
+	Step #88
+	
+		At that time, you count your unemployed workers and your Trade Unions, and you assign the points the other players lose.
+
+		They cannot lose more than the count of empty companies slots they have. 
+		
+		Let's see how they will respond...
+		
+Player move #118
+
+	Step #89
+	
+		The Capitalists did get scared and immediately bought a company. Since there are a lot of job opennings due to the creation and assignment of workers there, the demonstration will end.
+
+
+		Let's fast forward a little to see the list of Base Action the Working class can do.
+		
+Player move #133
+
+	Step #90
+	
+		Here we can see the other base action, which are also explained in the player aid panel.
+
+		Among those are the *Strikes*.
+
+		[img]https://snipboard.io/m2aERN.jpg[/img]
+		
+	Step #91
+	
+		A strike can be done on a company to abort its production for the Phase of Production. It can be done when its salary is not on the highest tier.
+
+		Nothing will be created, no salary will be given in exchange.
+
+		If the owner of the building increase the salary to the highest tier, the strike is removed.
+		
+	Step #92	
+		
+		From the main actions, you can also *Assign Workers*.
+
+		We can assign uncommitted and unemployed workers, but we can only assign 3 of them.
+		(if a company isn't operating, all remaining workers become unemployed)
+
+		When you assign workers you may assign them to *Trade Unions* [red]if 4 others workers are assigned to the same sector[/red]. 
+
+		The Trade Unions slots are specialized and workers placed there are always commited.
+
+		They have several uses..
+		
+	Step #93
+	
+		Operating Trade Union benefits:
+
+		*At Production Phase*, the Working class gains 1 Influence per "operating" Trade Union
+
+		*At Scoring Phase*, the Working class gains 2 VP per "operating" Trade Union
+
+		*During demonstrations*, if at Production phase the demonstration is still in effect, "operating" Trade Unions increase the amount of VP your opponents will lose.
+		
+	Step #94
+	
+		And finally: *Applying political pressure*, which just means putting 3 cubes from the reserve to the bag. 
+
+		It's an action all classes can take.
+
+		With this we saw all the Base Actions the [red]Working class[/red] can take.
+		
+		Let's fast forward to the Production Phase, as I wish to talk about Loans.
+		
+Player move #145
+
+	Step #95
+	
+		During this production phase, the capitalists had to make a loan. It happens when you are forced to make a payment and you do not have the funds.
+
+		You earn 50 Vardis but will pay 5 Vardis as interest on the start of the rounds, and if they are not paid at the end of the game, they represent -5 VP.
+
+		Paying a loan is a "free action".
+
+		We can see those loans on the Capitalist board.
+		
+	Step #96
+	
+		If the State needs to pay but can't, it also takes loans.
+
+		During the production phase, the IMF checks the amount of loans the State has. If it exceeds the amount setted in the Labor Market policy (2), then it goes bankrupt.
+
+		When this happens, the policies are reset to a fixed state 
+
+		[img]https://snipboard.io/egOlVL.jpg[/img]
+
+		(see the IMF Intervention, in the General Help Tab, in the Player Aid Panel, that we can open with the Book Button)
+		
+	Step #97
+	
+		Let's fast forward again a little bit in order to talk about special companies features...
+		
+Player move #151
+
+	Step #98
+
+		[green]*The Coop Farm!*[/green] It's the only company the Working class can own. It helps them make food and reduce the strain of a high population. It also help with the agricultural Trade Union.
+		
+Player move #154
+
+	Step #99
+
+		This Coop basically feeds 6 workers by itself!
+		
+		Let's fast forward again to talk about machinery.
+		
+Player move #174
+
+	Step #100
+	
+		On the subject of *machinery*.
+
+		There are three types of companies the [blue]Capitalist class[/blue] can have : 
+
+		- The normal "human-only" companies (such as the Vegetable Farm)
+
+		- The automated companies, which have no wages and are always operational once bought (see the Capitalist market)
+
+		- The upgradable companies which are operated by humans but have a gear icon with a production bonus
+		
+	Step #101
+	
+		The *upgradable companies* can be upgraded with a Machinery token (a gear) to increase its production. Those tokens can only be bought with a special card.
+
+		If no Workers work in the company anymore, the robots can not replace them: those are just a part of the process.
+
+		Upgraded companies make a great target for strikes or desertion.
+		
+Player move #175
+		
+	Step #102
+	
+		Now the companies with the Machinery tokens are adding the gear bonus to the total production. So Capital Class is creating 14 luxury items during Production Phase, if the Workers stay there !
+	
+Player move #177
+
+	Step #103
+	
+		Hence the bonus!
+		
+Player move #178
+
+	Step #104
+	
+		This is almost the end : let's quickly talk about the *Middle Class* (3/4 players) and The *State* as a player (4 players).
+		
+	Step #105
+	
+		The *Middle Class* is a mix of the [red]Working Class[/red] and the [blue]Capitalist Class[/blue]. They want the laws to be Balanced.
+
+		Like the [red]Working class[/red] they have workers, a prosperity, can buy goods and services.
+
+		And like the [blue]Capitalist class[/blue] they have some companies on their own.
+
+		[img]https://snipboard.io/9ediRJ.jpg[/img]
+		
+	Step #106
+	
+		The *Middle Class* don't have Business Deals, Trade Unions, Strikes or Demonstrations at their disposal but they can sell to the Foreign Market.
+
+		Instead they can buy the Good and Services they produce for free, and they can force their workers to do an Extra Shift on one of their company as a Base Action.
+
+		Moreover, they earn victory points for each transaction when they export goods.
+
+		During Election Phase, they add cubes equal to the higher value between :
+		- Half the population (like the [red]Working Class[/red])
+		- Half the number of operationnal companies (like the [blue]Capitalist Class[/blue])
+		
+	Step #107
+	
+		Finally their companies can be inactive, operated, or fully operated.
+
+		A *fully operated company* is a company with at least *2 operating workers*.
+
+		At Preparation Phase, they lose 2 Prosperity instead of 1.
+
+		But at Scoring Phase, if their Prosperity value is lower than the count of their *fully operated companies*, they earn +1 Prosperity.
+		
+	Step #108
+	
+		Some companies can be operated with only 1 Middle Class worker, and can be "upgraded" when a [red]Working Class[/red] worker is also affected.
+
+		[img]https://snipboard.io/QbUAxC.jpg[/img]
+
+		This is the only case in which Middle class workers and Working class workers are working in the same company. 
+		(and the only case in which we can have workers and empty slots)
+
+		Otherwise, the companies *must* be empty or filled with the same type of worker.
+		
+	Step #109
+	
+		The State is only controlled by a player on 4 players games.
+
+		When a player is controlling them, his objective is to balance the game, trying to make everybody happy. The events drawn at each Round and its cards help him do that.
+
+		[img]https://snipboard.io/WeFEp3.jpg[/img]
+		
+	Step #110
+	
+		The State don't have voting cubes but can still propose bills or use their influence during a vote.
+		They can win the +1VP during a vote only if they used influence.
+
+		The State can try to gain even more points by aligning the policies to its agenda he draws each Round. (1 VP per aligned policy)
+
+		[img]https://snipboard.io/zU5X7d.jpg[/img]
+		
+	Step #111
+	
+		[img]https://snipboard.io/nokzsu.jpg[/img]
+
+		The Legitimacy describe how the other classes benefited from the State actions. 
+
+		At Election Phase, it earns the Influence written for the lowest Legitimacy marker (on this image, it would be 1 Influence)
+
+		At Scoring phase, the State earn points from the 2 lowest Legitimacy markers (on this image, it would be 8 VP).
+		
+	Step #112
+	
+		*State Legitimacy iconography*
+
+		[img]https://snipboard.io/IBvE7C.jpg[/img]
+
+		Those icons represent an immediate change on the Legitimacy of a class. Those could be positive but they could be negative as well.
+
+		[img]https://snipboard.io/l7AhUB.jpg[/img]
+
+		Those represents Legitimacy tokens. Instead of representing an immediate Legitimacy change, they will give the State a permanent Legitimacy bonus.
+
+		At *Scoring Phase*, after applying the maluses from remaining Events, and earning the Legitimacy Victory Points, *all Legitimacy markers are halved*, then the tokens will give +1 Legitimacy each (and won't be discarded).
+
+		[blue]Legitimacy markers are halved by rounding up. If the Legitimacy had the value 5, it becomes 3.[/blue]
+				
+	Step #113
+	
+		I will not go further into the details for those two "classes", but remember you can see the player aids with the book button ! (Even now !)
+		
+	Step #114
+	
+		I hope you enjoyed this tutorial and it helped you figure out how to play the game!
