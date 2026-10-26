@@ -157,7 +157,7 @@ Player move #3
 
 		[blue][tip] Notice that you CANNOT buy more than 3, even though the State has 5 Education and you have enough Vardis to buy up to 4.
 
-		This is because you CANNOT buy more units of a Good or Service than your current Population.[/blue]
+		This is because you CANNOT buy more units of a Good or Service than your current Population *for each source*, on a single action.[/blue]
 		
 Player move #4
 
@@ -426,7 +426,7 @@ Player move #25
 	
 		If there are more cubes *Against* than there are *In Favor*, then the law doesn't change and nothing special happens.
 
-		Otherwise —even in the case of a tie:
+		Otherwise Â—even in the case of a tie:
 		- the law is changed
 		- the effects are resolved [blue](the State buying companies, for example)[/blue]
 		- the player who proposed the Bill gains 3 VP
