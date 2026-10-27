@@ -157,17 +157,17 @@ Player move #3
 
 		[blue][tip] Notice that you CANNOT buy more than 3, even though the State has 5 Education and you have enough Vardis to buy up to 4.
 
-		This is because you CANNOT buy more units of a Good or Service than your current Population *for each source*, on a single action.[/blue]
+		This is because you CANNOT buy more units of a Good or Service than your current Population *from each source*, on a single action.[/blue]
 		
 Player move #4
 
 	Step #22
 	
-		Since we have NOT played a *free action* before the *main action*, BGA is now asking which "free action" we would like to play.
+		Since we did NOT take a *Free Action* before the *Main Action*, BGA is now asking which Free Action we'd like to take.
 
 		[green]Since we bought enough Education to match our Population, let's use it![/green]
 
-		[blue][tip] Remember that the *free action* can be played before the *main action*[/blue] 
+		[blue][tip] Remember that the *Free Action* can be played before the *Main Action*[/blue] 
 		
 Player move #5
 
@@ -194,7 +194,7 @@ Player move #6
 		We can only take *one Free Action*, no more.
 		So with our main action and our free action, our turn is now over.
 
-		Now it's time for the [blue]*Capitalists*[/blue] to play !
+		Now it's time for the [blue]*Capitalists*[/blue] to play!
 		
 Player move #7
 
@@ -212,7 +212,7 @@ Player move #7
 		
 	Step #28
 	
-		They can also buy and sell companies from their market, for the price written on the top-right part of the card.
+		They can also buy and sell companies from their market, at the price shown in the top-right corner of the card.
 
 		And- [red]Oh no! We might have made a mistake![/red]
 		
@@ -249,7 +249,7 @@ Player move #17
 
 		Some cards also commit employees too.
 
-		Commited workers can still be *Swapped* with other workers, during a free action.
+		Committed workers can still be *Swapped* with other workers, during a Free Action.
 		
 Player move #20
 
@@ -269,7 +269,7 @@ Player move #20
 		
 	Step #33
 	
-		With only 10 Vardis, it would be good to buy some [red]Health[/red] for the very expensive price of.. nothing.
+		With only 10 Vardis, it would be great to buy some [red]Health[/red] at the very expensive price of.. nothing.
 
 		Too bad *the law* says otherwise..  ..so let's change it!
 
@@ -287,7 +287,7 @@ Player move #22
 	
 		Now might be a good moment to talk about the *Policies*.
 
-		These are game-changing rules -litteraly.
+		These are game-changing rules —literally.
 
 		There are 7 of them, including 5 "main" policies that go from [red]socialism (left, "A")[/red] to [blue]neoliberalism (right, "C")[/blue], with the middle column ("B") representing a compromise between the two.
 
@@ -302,7 +302,7 @@ Player move #22
 		It determines how many companies the State owns. 
 		It also determines how many loans the State can take before the IMF declares it bankrupt (something the Capitalists love to see).
 
-		When this law changes, the State has to buy or sell companies using its funds.
+		When this policy changes, the State MUST buy or sell companies using its funds.
 		
 	Step #37
 	
@@ -316,19 +316,19 @@ Player move #22
 		*3- Taxation*
 		How much shall we make the classes pay?
 
-		This policy affects the way the classes are taxed, and define the base value for the Tax Multiplier and its Welfare factor.
+		This policy affects the way the classes are taxed, and defines the base value for the Tax Multiplier and its Welfare factor.
 
 		The Employment *Tax Multiplier* is the tax each *operational companies* must pay to the state.
 
-		The Welfare factor multiplies the *tax multiplier increments* from the Welfare policies below (4 and 5).
+		The Welfare factor multiplies the *Tax multiplier increments* from the Welfare policies below (4 and 5).
 
 		I will show the different taxes during the Production Phase.
 
 	Step #39
 	
-		Then come *4 and 5: The Welfare State policies.*
+		Next are *4 and 5: The Welfare State policies.*
 
-		It declares how much the services the state offers actually cost.
+		They determine how much the services offered by the State actually cost.
 
 		- [red]*Socialism* (A)[/red]: they cost nothing to the buyer, but the tax multiplier is incremented by 2 times the Welfare factor given in the Taxation policy (3)
 
@@ -336,7 +336,7 @@ Player move #22
 
 		- [blue]*Neo-liberalism* (C)[/blue]: they cost 10 Vardis, and the tax multiplier is unaffected.
 
-		When those change, The [blue]*Capitalist*[/blue] and *Middle* classes can change the prices of their Goods and Services.
+		When those change, the [blue]*Capitalist*[/blue] and *Middle* classes can change the prices of their Goods & Services.
 
 		[blue][tip] For example, if 3A, 4A and 5A are applied, then the tax multiplier would be : 3 + 2x2 + 2x2 = 11 : the maximum value.
 
@@ -350,39 +350,40 @@ Player move #22
 	
 		*6 - Foreign trade:*
 
-		Fixes the taxes from buying and selling from the foreign market.
+		This policy sets the tariffs on deals and imports from the Foreign Market.
 
-		- *High tariffs* (A): Getting things from outside becomes expansive so it encourage the [red]Working class[/red] to buy things from the State or the [blue]Capitalist class[/blue]. It also give the State some funds.
+		- *High tariffs* (A): Buying from abroad becomes more expensive, encouraging the [red]Working Class[/red] to buy from the State or the [blue]Capitalist Class[/blue]. It also provides the State with funds.
 
-		- *No tariffs* (C): Getting things from outside becomes cheap so [blue]Capitalist class[/blue] and [red]Working class[/red] can buy what they need from there, the problem is there will be less money for the State.
+		- *No tariffs* (C): Buying from abroad becomes cheaper, so the [blue]Capitalist Class[/blue] and [red]Working Class[/red] can buy what they need there. The downside is that the State receives less money.
 
-		When this policy changes, the [blue]Capitalist[/blue] and Middle classes can change their Good and Services prices.
+		When this policy changes, the [blue]Capitalist Class[/blue] and the Middle Class can adjust their goods and services prices.
 		
 	Step #42
 	
 		*7 - Immigration*
 
-		Usually the *Middle class* and the [red]*Working class*[/red] get two workers during Preparation Phase.
+		Usually, the *Middle class* and the [red]*Working class*[/red] each gain two Workers during Preparation Phase.
 
-		This policy adds more workers to this.
+		This policy increase this amount of Workers.
 
-		[blue][tip] For example, if 7C is in effect, the Working class gains 4 workers at the start of the next Round![/blue]
+		[blue][tip] For example, if 7C is in effect, the Working class gains 4 Workers at the start of the next Round, instead of two![/blue]
 			
 	Step #43	
 		
 		And those are all the policies !
 
-		Keep in mind that some cards can only be played when some policies are in effect, like *Unemployment Benefits* from the first turn (you can see it on the historic)
-
+		Keep in mind that some cards can only be played when certain policies are in effect.
 		[img]https://snipboard.io/wUQMcE.jpg[/img]
+
+		[blue]*Unemployment Benefits*, which we played on the first turn, requires Policy 4 to be on the A or B column.[/blue]
 		
 	Step #44
 	
 		So.. back to business: we wanted free [red]Healthcare[/red] for the people!
 
-		When proposing a Bill, you can not propose a Bill on a policy where a Bill is already proposed. ([blue][tip] It can prevent an  opponent from proposing a Bill to the opposite side[/blue])
+		When proposing a Bill, you cannot propose one for a policy that already has a Bill proposed. ([blue][tip] It can prevent an opponent from proposing a Bill to the opposite side[/blue])
 
-		And, unless a card explicitly tells you so, you may only change a policy to one degree. [blue](A -> C would require a special card like *Radical Reforms*)[/blue]
+		And, unless a card explicitly tells you so, you may only change a policy by only one step. [blue](A -> C would require a special card like *Radical Reforms*)[/blue]
 
 		Anyways, that's not our case, so [green]let's click on the *4A* law.[/green]
 		
@@ -390,11 +391,11 @@ Player move #23
 
 	Step #45
 	
-		When proposing a bill, if we have *influence*, we can pressure the government to do the election immediately.
+		When proposing a Bill, we can spend *Influence* to pressure the government into holding the election immediately.
 
-		After an election is finished, the proposed bill is discarded and another bill can then be proposed afterwards.
+		Once an election is over, its proposed Bill is discarded, and any player can propose a new Bill for that Policy.
 
-		But if the bill is accepted, the policy changes are immediate.
+		But if the Bill passes, the policy changes immediately.
 
 		[blue][tip] You must also remember that the *Production Phase* (salary, taxes, buying food) happens before the *Election Phase*.[/blue]
 
@@ -412,9 +413,9 @@ Player move #25
 		
 	Step #47
 	
-		During the whole game, a voting bag representing the favor of the people for the classes actions is represented here.
+		Throughout the game, this voting bag represents public support for the classes' actions.
 
-		When a vote starts, 5 cubes are randomly picked from the bag.
+		When a vote starts, 5 cubes are drawn randomly from the bag.
 
 		[blue]We can decide to hide the bag contents on the game options before it starts[/blue]
 		
@@ -424,15 +425,15 @@ Player move #25
 		
 	Step #49
 	
-		If there are more cubes *Against* than there are *In Favor*, then the law doesn't change and nothing special happens.
+		If there are more cubes *Against* than there are *In Favor*, then the policy doesn't change and nothing special happens.
 
-		Otherwise even in the case of a tie:
+		Otherwise —even in the case of a tie:
 		- the law is changed
 		- the effects are resolved [blue](the State buying companies, for example)[/blue]
 		- the player who proposed the Bill gains 3 VP
 		- all other classes that were *In Favor* gain 1 VP.
 
-		The cubes of the side that loses the election go back into the bag.
+		The cubes from the losing side go back into the bag.
 		
 Player move #26
 
@@ -468,11 +469,11 @@ Player move #34
 
 		Good for us : we needed the money!
 
-		They also gave the supermarket workers a bonus, so they are now commited. I guess they were afraid we swapped the violet and the unskilled worker from it to affect them on the TV station!
+		They also gave the supermarket workers a bonus, so they are now committed. I guess they were afraid we swapped the violet and the unskilled worker from it to affect them on the TV station!
 		
 	Step #55
 	
-		We can now buy health, so let's do it!
+		We can now buy Health, so let's do it!
 
 		[green]Let's discard *Student Movement*[/green].. we should have used that card beforehand.. but, oh well!
 		
@@ -480,7 +481,7 @@ Player move #35
 
 	Step #56
 
-		[green]*Buy Goods and services*[/green]
+		[green]*Buy Goods & Services*[/green]
 		
 Player move #36
 
